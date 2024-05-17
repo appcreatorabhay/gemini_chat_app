@@ -1,0 +1,1 @@
+const Gemini_key="AIzaSyBaeIYGNHWcCc2yzPmg6H_u59xmVT6CLIo";
